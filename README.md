@@ -1,5 +1,5 @@
 # 
-OutWeather is a web application that helps users determine what to wear and what accessories to bring with them when they go outside. The app advises users of the weather conditions and suggest an ideal outfit so that they are prepared. We designed a clean and simple UI to make it easy to use. Users can enter their location, and the app will then proceed to display details on the weather, as well as a full outfit.
+RiteFit is a web application that helps users determine what to wear and what accessories to bring with them when they go outside. The app advises users of the weather conditions and suggest an ideal outfit so that they are prepared. Users can enter their location, and the app will then proceed to display details on the weather, as well as a full outfit.
 
 ### Photos
 ![Main menu](static/images/mainmenu.png?raw=true "Main menu")
